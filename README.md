@@ -10,3 +10,8 @@ Usage:
 
 Known issues:
 - Does not work with EPUB2
+
+Changes by @pkra
+
+- added bootstrap
+- introduced new known issues: links are not re-written properly
