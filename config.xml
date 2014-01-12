@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.readium-hackathon-OERpub-epubviewer"
         version   = "2.7.0">
-    <name>Peter's MathJax test with jquery mobile</name>
+    <name>Readium Hackathon OERpub epub viewer</name>
 
     <description>
         AMS JQM
